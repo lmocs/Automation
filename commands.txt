@@ -1,6 +1,7 @@
 vmware token 1: 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
+vmware token 2: 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
 
-git remote set-url origin https://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@github.com/lmocs/Automation.git
+git remote set-url origin https://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@github.com/lmocs/Automation.git
 
 git clone https://tokenhere@github.com/user_name/repo_name.git
 
