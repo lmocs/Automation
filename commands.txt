@@ -1,0 +1,10 @@
+vmware token 1: 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
+
+git remote set-url origin https://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@github.com/lmocs/Automation.git
+
+git clone https://tokenhere@github.com/user_name/repo_name.git
+
+git status
+git add {file}
+git commit -m ""
+git push origin main
